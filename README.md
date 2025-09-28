@@ -12,9 +12,7 @@ I'm still learning and exploring new technologies, and I love tackling challenge
 
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sapnamg&show_icons=true&hide_title=true)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sapnamg)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 *Feel free to explore my repositories and reach out for collaboration!*
